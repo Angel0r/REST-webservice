@@ -1,4 +1,4 @@
-# Web_Service_Rest
+# REST-webservice
 
 A RESTful Webservice using JAX-RS. The project is built with [Maven](http://maven.apache.org/) using [Apache Tomcat 9](https://tomcat.apache.org/download-90.cgi). MongoDB used as well.
 
